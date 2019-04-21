@@ -29,6 +29,10 @@ Windows の場合
 
 rustup を使います.
 
+## python のインストール
+
+## node.js のインストール
+
 ## 先ずはビルドする
 
 まずはリポジトリをクローンしましょう.
@@ -91,6 +95,16 @@ typescript: 3.4.1
 ```
 
 上の1コマンドで GN, Python, C++, Rust, TypeScript, JavaScript 6言語のフォーマットが全て実行されます. (すごい!)
+
+## リントを実行する
+
+下のコマンドでリントが実行されます.
+
+```
+./tools/lint.py
+```
+
+上のコマンドで Python, C++, TypeScript, JavaScript のリントが実行されます. 上のコマンドには Rust のリントが含まれておらず, Rust のリントが自動化出来ていないことは残課題の1つです. Issue #
 
 # 課題の探し方
 
