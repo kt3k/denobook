@@ -120,6 +120,7 @@ typescript: 3.4.1
 - issue を漁る (着手不可能なものも多い)
 - 機能を入れる. 足りない API を見つける
 - 機能を入れる. node の定番モジュールで deno_std に入っていないものを見つける
+- web 標準準拠作業
 - greenkeeping: package.json のアップデート
 
 メタ探し方:
