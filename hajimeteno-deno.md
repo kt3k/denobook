@@ -1,6 +1,6 @@
 # はじめに
 
-Deno は 2018年に発表された新しい JavaScript と TypeScript の実行環境です.
+Deno は 2018 年に発表された新しい JavaScript と TypeScript の実行環境です.
 
 # はじめての Deno
 
