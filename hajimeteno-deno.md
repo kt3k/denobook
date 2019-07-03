@@ -7,7 +7,7 @@ Deno は 2018 年に発表された新しい JavaScript と TypeScript の実行
 目次
 
 - はじめに
-  - Deno とは
+  - Deno ってなに
   - Deno で出来ること
 - Deno をはじめる
   - Deno のインストール
@@ -15,5 +15,6 @@ Deno は 2018 年に発表された新しい JavaScript と TypeScript の実行
   - Deno の API
   - 標準モジュールを使う
   - 3rd パーティモジュールを使う
+- Deno で計算してみよう
+- 条件分岐
 - Deno でウェブサーバーを作る
-- Deno で LINE Bot を作る
