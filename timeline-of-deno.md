@@ -5,12 +5,15 @@
 ## 2018/6
 
 - JSConf EU 2018 でライアン・ダール が Deno を発表する.
-  - 発表のタイトルは「Node.js に関して後悔している 10 の事」という刺激的なものでした.
+  - 発表のタイトルは「Node.js に関して後悔している 10 の事」という挑戦的なものでした.
   - なおこの時, トークと同時に発表された Deno プロトタイプは Go 言語で実装されていました.
+  - なお発表の10日ほど前までは発表の内容は Propel という機械学習フレームワークについてでした.
+    - 発表直前に, tensorflow.js が発表され, Propel の "JavaScript の機械学習フレームワーク" という立ち位置が意味のないものとなったため, 急遽上のタイトルに差し替えられました.
 
 ### 2018/6 Rust rewrite
 
 - 6/10 Go のプロトタイプと並行して Rust のプロトタイプの開発が始まる.
+  - 最初このプロジェクトは deno2 と呼ばれていました.
 - 6/X Go プロトタイプは廃止が決まり, Rust 版が正式版となる.
 
 ### 2018/7 Http server
@@ -25,17 +28,19 @@
 
 ### 1995
 
-- Netscape 社のブレンダン・アイク JavaScript を発表
+- Netscape 社の ブレンダン・アイク JavaScript を開発・発表する.
 
-### 1996 Netscape 社 サーバーサイド JavaScript 実装を含んだ Netscape Enterprise Server 発表
+### 1996
+
+- Netscape 社 サーバーサイド JavaScript 実装を含んだ Netscape Enterprise Server 発表
 
 ### 2008 Sep 2 V8 リリース
 
-- ラース・バク率いる Google のチームが V8 をリリース
+- ラース・バク率いる Google のチームが V8 をリリース. 同時に Google Chrome もリリースされる.
 
 ### 2009 Nov 8 Node.js 発表
 
-- 2009 年 11 月 8 日 ドイツ ベルリン JSConf EU 開催
+- 2009 年 11 月 8 日 ドイツ ベルリンで第1回 JSConf EU 開催
 - ライアン・ダール Node.js を発表
 
 <!--
@@ -45,19 +50,13 @@
 
 ### 2015 v8worker
 
+- ES6 が策定される. class, module, etc など, それまで JavaScript に欠けていた, 非常に豊富な機能が言語に導入される.
 - ライアン・ダール Go 言語から V8 を使う仕組みの v8worker を発表.
 
 - スライド by ライアン https://docs.google.com/presentation/d/1RgGVgLuP93mPZ0lqHhm7TOpxZBI3TEdAJQZzFqeleAE/edit#slide=id.gb06c94eca_1_74
 - Quora https://www.quora.com/Whats-the-purpose-of-Ryan-Dahls-v8worker-Is-it-to-make-the-most-of-the-JavaScript-library-from-golang
 
-### 2017 Mapping the Journey Episode 8
+### 2017
 
-###
-
-## Deno ロードマップ
-
-## 筆者私見
-
-- Node.js の資産は偉大. 作者自身が Node.js を批判したとしてもすぐに廃れるようなものではない.
-- いくつかの点で Deno は Node.js のデザイン上の問題点を克服している.
-  - module resolution. registry. security.
+- ライアン・ダール Mapping the Journey Episode 8 に登場
+  - Go を激賞し Node.js を批判する
