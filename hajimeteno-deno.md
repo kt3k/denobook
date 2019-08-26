@@ -114,7 +114,7 @@ scoop install deno
 
 ### Mac で Deno をインストールする
 
-{図: マック, デスクトップ}
+<img src="./denobook-img01.png">
 
 画面右上の🔍をクリックしてスポットライトを開いてください.
 

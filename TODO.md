@@ -2,6 +2,7 @@
   - [ ] win
   - [ ] mac
 - if の例題
+- for
 - [ ] 関数の節を書く
 - [ ] エラーの節
 - repository 引っ越す
